@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://urefoaqi.github.io/AGl/sitemap_index.txt.gz
+Sitemap: https://urefoaqi.github.io/DwR/sitemap_index.txt.gz
+Sitemap: https://urefoaqi.github.io/cFV/sitemap_index.txt.gz
+Sitemap: https://urefoaqi.github.io/eQu/sitemap_index.txt.gz
+Sitemap: https://urefoaqi.github.io/jPr/sitemap_index.txt.gz
+Sitemap: https://urefoaqi.github.io/sitemap/sitemap_index.txt.gz
